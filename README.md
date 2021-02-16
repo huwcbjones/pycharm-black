@@ -1,4 +1,6 @@
-# pycharm-black
+Pycharm Plugin for Black
+--------------------------
+Based on an old plugin by [@pablogsal](https://github.com/pablogsal), [black-pycharm](https://github.com/pablogsal/black-pycharm).
 
 ![Build](https://github.com/huwcbjones/pycharm-black/workflows/Build/badge.svg)
 [![Version](https://img.shields.io/jetbrains/plugin/v/PLUGIN_ID.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)

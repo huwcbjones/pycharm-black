@@ -1,6 +1,4 @@
-<!-- Keep a Changelog guide -> https://keepachangelog.com -->
-
-# pycharm-black Changelog
+# PyCharm Black Changelog
 
 ## [Unreleased]
 ### Added
